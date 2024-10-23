@@ -22,7 +22,7 @@ The following frameworks and environments were tested for performance, measured 
 ## Benchmark Results
 
 | Framework             | Requests per second | Time per request (ms) | Transfer rate (Kbytes/sec) |
-|-----------------------|---------------------|-----------------------|----------------------------|
+|----------------------:|--------------------:|----------------------:|---------------------------:|
 | **Hono + Bun**        |           11,148.36 |                 8.970 |                   1,622.17 |
 | **Elysia + Bun**      |           11,077.71 |                 9.027 |                   1,601.08 |
 | **Fiber**             |           10,595.88 |                 9.438 |                   1,583.17 |
